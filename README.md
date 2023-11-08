@@ -5,8 +5,8 @@
 <p>📌 - Estudando tecnologias Front-End</p>
 <br>
 <div align="center">
- <img height="150em" src="https://github-readme-stats.vercel.app/api?username=evertonc15&show_icons=true&theme=tokyonight"/> 
- <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evertonc15&layout=compact&theme=tokyonight"/>
+ <img height="150em" src="https://github-readme-stats.vercel.app/api?username=KaueB15&show_icons=true&theme=tokyonight"/> 
+ <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaueB15&layout=compact&theme=tokyonight"/>
 </div>
 <br>
 <p>Tecnologias que Trabalhei:</p>
