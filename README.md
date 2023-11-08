@@ -4,6 +4,11 @@
 <p>📌 - Estudando Java</p>
 <p>📌 - Estudando tecnologias Front-End</p>
 <br>
+<div align="center">
+ <img height="150em" src="https://github-readme-stats.vercel.app/api?username=evertonc15&show_icons=true&theme=tokyonight"/> 
+ <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evertonc15&layout=compact&theme=tokyonight"/>
+</div>
+<br>
 <p>Tecnologias que Trabalhei:</p>
 <div style="display: inline_block">
   <img align="center" alt="kaue-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
