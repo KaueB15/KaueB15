@@ -1,7 +1,7 @@
 <h1>Olá! Eu sou Kauê Batista</h1>
 
-<p>📚 - Ciência da Computação 2/8</p>
-<p>📌 - Estudando Java</p>
+<p>📚 - Ciência da Computação 3/8</p>
+<p>📌 - Estudando Banco de Dados</p>
 <p>📌 - Estudando tecnologias Front-End</p>
 <br>
 <br>
