@@ -27,3 +27,4 @@
   <a href="https://github.com/KaueB15" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 </div>
 
+![Kaue GitHub stats](https://github-readme-stats.vercel.app/api?username=KaueB15&show_icons=true&theme=dark)
