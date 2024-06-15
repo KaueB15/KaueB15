@@ -30,5 +30,5 @@
 
 <br>
 
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=KaueB15&show_icons=true&theme=dark"/> 
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaueB15&layout=compact&theme=dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KaueB15&show_icons=true&theme=dark"/> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaueB15&layout=compact&theme=dark"/>
