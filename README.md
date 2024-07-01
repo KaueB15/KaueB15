@@ -1,8 +1,8 @@
 <h1>Olá! Eu sou Kauê Batista</h1>
 
-<p>📚 - Ciência da Computação 3/8</p>
-<p>📌 - Estudando Banco de Dados</p>
-<p>📌 - Estudando tecnologias Front-End</p>
+<p>📚 - Ciência da Computação 4/8</p>
+<p>📌 - Estudando ReactJS</p>
+<p>📌 - Estudando TypeScript</p>
 <br>
 <p>Linguagens de Programação:</p>
 <div style="display: inline_block">
