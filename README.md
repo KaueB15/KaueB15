@@ -34,6 +34,5 @@
 
 <div style="display: inline_block"> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KaueB15&show_icons=true&theme=dark"/> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaueB15&theme=dark&hide_langs_below=1"/>  
 </div>
 
