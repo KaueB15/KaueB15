@@ -34,6 +34,6 @@
 
 <div style="display: inline_block"> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KaueB15&show_icons=true&theme=dark"/> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=KaueB15&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false&order=2"/>  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaueB15&theme=dark&hide_langs_below=1"/>  
 </div>
 
