@@ -1,6 +1,6 @@
 <h1>Olá! Eu sou Kauê Batista</h1>
 
-<p>📚 - Ciência da Computação 4/8</p>
+<p>📚 - Ciência da Computação 5/8</p>
 <p>📌 - Estudando ReactJS</p>
 <p>📌 - Estudando TypeScript</p>
 <br>
