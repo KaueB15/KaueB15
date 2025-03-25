@@ -38,6 +38,6 @@
 
 <div style="display: inline_block"> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KaueB15&show_icons=true&theme=dark"/> 
-  [![Mohammad Saifur Rahman's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=KaueB15&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile&theme=algolia&show_icons=true)](https://github.com/saifurrahman1193)
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaueB15&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117&theme=dark" />
 </div>
 
