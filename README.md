@@ -38,6 +38,6 @@
 
 <div style="display: inline_block"> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KaueB15&show_icons=true&theme=dark"/> 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaueB15&theme=dark)
+  [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=KaueB15)]
 </div>
 
