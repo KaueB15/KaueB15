@@ -2,7 +2,7 @@
 
 <p>📚 - Ciência da Computação 6/8</p>
 <p>📌 - Estudando ReactJS</p>
-<p>📌 - Estudando TypeScript</p>
+<p>📌 - Estudando Django</p>
 <br>
 <p>Linguagens de Programação:</p>
 <div style="display: inline_block">
